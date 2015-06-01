@@ -5,7 +5,7 @@ Rails.application.routes.draw do
   # You can have the root of your site routed with "root"
   # application = controller name
   # hello = method name within called controller
-  root 'application#hello'
+  root 'application#goodbye'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
